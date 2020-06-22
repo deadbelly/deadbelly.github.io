@@ -1,7 +1,6 @@
 p {
-color: red;
+font-family: verdana;
+  font-size: 20px;
+  columncount: 2
 }
-body {
-  column-count: 3;
 
-}
