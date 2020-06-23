@@ -2,7 +2,8 @@ body {
   font-family: 'Lato', sans-serif;
 }
 .Wedge {
-  background-image: url(https://www.cuningham.com/wp-content/uploads/2017/03/thewedgecoop-9062_3_4hdr.jpg);
+  background-image: url(https://epinc.com/wp-content/uploads/wedge-coop-2.jpg);
   background-size: cover;
   position: relative;
+  color: white;
 }
