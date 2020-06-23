@@ -1,3 +1,8 @@
 body {
   font-family: 'Lato', sans-serif;
 }
+.wedge {
+  background-image: url(https://www.cuningham.com/wp-content/uploads/2017/03/thewedgecoop-9062_3_4hdr.jpg);
+  background-size: cover;
+  position: relative;
+}
