@@ -9,3 +9,6 @@ body {
 .SkRef {
   column-count: 2;
 }
+#contact {
+  font-size: 10px;
+}
