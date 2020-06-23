@@ -1,6 +1,10 @@
 p {
-font-family: sanserif;
-  font-size: 15px;
-  columncount: 2
+font-family: san-serif;
+  font-size: 12px;
 }
-
+h1 {
+font-family: san-serif;
+  font-size: 20px;
+}
+h3 {font-family: san-serif;
+  font-size: 15px;}
