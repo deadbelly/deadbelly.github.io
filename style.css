@@ -1,22 +1,3 @@
 body {
   font-family: 'Lato', sans-serif;
 }
-p {
-font-family: 'Lato', sans-serif;
-  font-size: 14px;
-}
-h2 {
-font-family: 'Lato', sans-serif;
-  font-size: 20px;
-}
-h3 {
-  font-family: 'Lato', sans-serif;
-  font-size: 18px;
-}
-.Wedge {
-	color: #ffffff
-	  background: url(https://www.cuningham.com/wp-content/uploads/2017/09/thewedgecoop-6351_2_3hdr-1200x758.jpg) no-repeat center;
-  background-size: cover;
-  height: 200px;
-  position: relative;
-}
