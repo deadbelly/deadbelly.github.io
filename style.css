@@ -2,3 +2,7 @@ body {
   font-family: "Lato", sans-serif;
   text-align: center;
 }
+.work {
+  column-count: 2;
+  column-rule-style: solid;
+}
