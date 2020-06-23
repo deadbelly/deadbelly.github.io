@@ -8,3 +8,10 @@ body {
   color: white;
   text-align: right;
 }
+
+.Trock {
+  background-image: url(https://stmedia.stimg.co/CTYP_music_111517_TripleRockbar_Tom+WallaceStarTrib.jpg?w=1200&h=630);
+  background-size: cover;
+  Position: relative;
+  Color: white;
+}
