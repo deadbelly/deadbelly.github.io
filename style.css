@@ -13,6 +13,7 @@ body {
   font-size: 0.8rem;
 }
 .contact-btn a {
+  color: black;
   position: relative;
   cursor: pointer;
   margin-right: 30px;
