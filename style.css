@@ -29,3 +29,8 @@ a {text-decoration: none;}
 .header {
   column-count: 2;
 }
+br {
+  content: " ";
+  display: block;
+  margin: 1em;
+}
