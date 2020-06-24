@@ -1,1 +1,1 @@
-# deadbelly.github.io
+# deadbelly.github.io/resume
